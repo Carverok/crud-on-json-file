@@ -1,0 +1,25 @@
+{
+  "name": "crud-on-json-file",
+  "version": "1.0.0",
+  "description": "CRUD using a JSON file as database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carverok/crud-on-json-file.git"
+  },
+  "keywords": [
+    "crud",
+    "json",
+    "node",
+    "javascript"
+  ],
+  "author": "Nayib Ayús Cortés",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carverok/crud-on-json-file/issues"
+  },
+  "homepage": "https://github.com/Carverok/crud-on-json-file#readme"
+}
